@@ -1,2 +1,9 @@
-# python-practice
-Daily Python practice repository with structured folders for each day
+# Python Daily Practice 
+
+This repository contains my daily Python practice.
+
+## Progress
+- Day 1: Basics and simple problems
+
+---
+Consistency > perfection
